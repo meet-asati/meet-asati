@@ -16,8 +16,8 @@
 ### About Me
 
 - Second Year **Computer Science Student**
-- Building real-world projects using **MERN, React, Express**
-- Currently learning **Flutter & Linux**
+- Building **Full-Stack** projects
+- Currently learning **DevOps**
 - Interested in **AI/ML, DevOps, App Development & Game Development**
 - Started coding in **6th grade** with QBasic & HTML 💻
 - 🎧 Rap lover • Favorite Artist → **EMINEM**
@@ -64,9 +64,6 @@
 
 - Portfolio Website using **React + Tailwind**
 - Full-stack Game Forum
-- **Flutter** based Expense Tracker App
-- Linux automation mini scripts
-- Expanding my **Unity 2D game**
 
 ---
 
