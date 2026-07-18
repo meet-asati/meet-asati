@@ -29,25 +29,33 @@
 <h3><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 #### Frontend Stack
+<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" title="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+</p>
 
 #### Backend & DB
+<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" title="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+</p>
 
 #### Programming Languages
+<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" title="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" title="C++" width="40" height="40"/>
+</p>
 
 #### Tools & Others
+<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" title="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" title="Unity 2D" width="40" height="40"/>
+</p>  
 
 ---
 
@@ -62,7 +70,7 @@
 <!-- Connect -->
 <h3><font size="+2" face="Verdana">Connect with me:</font></h3>
 
-- 📫 Email: **mmasati1976@gmail.com**
+- 📫 Email: **meetm.asati@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/meet-asati-1937b132b**
 - 💬 Open for collabs, projects and hackathons
 
