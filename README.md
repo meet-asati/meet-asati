@@ -62,7 +62,6 @@
 <!-- Projects -->
 <h3><font size="+2" face="Verdana">Projects I'm Building</font></h3>
 
-- Portfolio Website using **Next.js + Tailwind**
 - Full-stack Game Forum
 
 ---
