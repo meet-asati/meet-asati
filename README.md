@@ -15,11 +15,11 @@
 <!-- Introduction Section -->
 ### About Me
 
-- Second Year **Computer Science Student**
+- Third Year **Computer Science Student**
 - Building **Full-Stack** projects
 - Currently learning **DevOps**
 - Interested in **AI/ML, DevOps, App Development & Game Development**
-- Started coding in **6th grade** with QBasic & HTML 💻
+- Started coding in **6th grade** with QBasic & HTML
 - 🎧 Rap lover • Favorite Artist → **EMINEM**
 - Always hungry to learn & build something new
 
@@ -69,15 +69,9 @@
 <!-- Connect -->
 <h3><font size="+2" face="Verdana">Connect with me:</font></h3>
 
-- 📫 Email: **meetm.asati@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/meet-asati-1937b132b**
-- 💬 Open for collabs, projects and hackathons
+- Email: **meetm.asati@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/meet-asati-1937b132b**
+- Portfolio: **https://meet-asati.vercel.app**
+- Open for collabs, projects and hackathons
 
 ---
-
-<!-- Fun Fact -->
-⚡ Fun Fact: I started coding before I understood what variables meant 😄  
-🎵 Coding energy boost = **EMINEM — Lose Yourself**
-
----
-
