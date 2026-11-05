@@ -1,77 +1,166 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Meet Asati</font></h1>
-<h3 align="center"><font face="Arial">A passionate Computer Science student & Developer from India. I love building products, learning new tech and exploring code beyond the classroom.</font></h3>
+<!--
+    MEET ASATI | GitHub Profile README
+    Aesthetic: Minimal Developer × Hacker × Engineer
+-->
 
-<!-- Tagline -->
-<h3 align="center"><font face="Arial">Frontend • Backend • App Development • Game Development</font></h3>
+<div align="center">
 
----
+# `meet-asati`
 
-<!-- GIF -->
-<!-- <img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
-<img align="right"  width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> 
+### Software Engineer | Builder | Problem Solver
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=Building+things+that+make+me+curious.;Breaking+things+to+understand+how+they+work.;Backend+Engineering+%7C+DevOps+%7C+Game+Dev;Learning+by+building%2C+one+project+at+a+time." alt="Typing SVG" />
 
-<!-- Introduction Section -->
-### About Me
+<br/>
 
-- Third Year **Computer Science Student**
-- Building **Full-Stack** projects
-- Currently learning **DevOps**
-- Interested in **AI/ML, DevOps, App Development & Game Development**
-- Started coding in **6th grade** with QBasic & HTML
-- 🎧 Rap lover • Favorite Artist → **EMINEM**
-- Always hungry to learn & build something new
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7A5?style=flat-square&logo=vercel&logoColor=black)](https://meet-asati.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-asati-1937b132b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meetm.asati@gmail.com)
+
+</div>
 
 ---
 
-<!-- Languages and Tools Section -->
-<h3><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+## `$ whoami`
 
-#### Frontend Stack
+```bash
+meet@github:~$ whoami
+
+Software Engineer who loves building fun projects
+to understand how existing applications and software work.
+
+meet@github:~$ cat interests.txt
+
+> Backend Engineering
+> DevOps & Cloud
+> Game Development
+> System Internals
+> AI/ML Experiments
+> Hackathons & Problem Solving
+
+meet@github:~$ _
+```
+
+I'm a Computer Science student who enjoys exploring the engineering behind everyday software.
+
+I like taking ideas, turning them into working projects, experimenting with unfamiliar technologies, and occasionally breaking things just to figure out why they work.
+
+**My philosophy:** Learn by building. Understand by experimenting.
+
+---
+
+## `$ cat current_focus.txt`
+
+| Area | Focus |
+|:---|:---|
+| Backend Engineering | APIs, distributed systems, networking |
+| DevOps & Cloud | Docker, Linux, AWS, infrastructure |
+| Game Development | Unity, game mechanics, simulations |
+| Problem Solving | DSA, algorithms, system design |
+
+---
+
+## `$ ls tech-stack/`
+
+**Languages**
+
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" title="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,rust,go" />
 </p>
 
-#### Backend & DB
+**Backend Development**
+
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" title="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-#### Programming Languages
+**Databases & Caching**
+
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" title="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
 </p>
 
-#### Tools & Others
+<!--
+**Messaging & Event Streaming**
+
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" title="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" title="Unity 2D" width="40" height="40"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+-->
+
+**DevOps, Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,bash,vscode" />
+</p>
+
+**Game Development & AI/ML**
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs,tensorflow" />
+</p>
 
 ---
 
-<!-- Projects -->
-<h3><font size="+2" face="Verdana">Projects I'm Building</font></h3>
+## `$ ls ~/projects/`
 
-- Full-stack Game Forum
+Things I've built, experimented with, or am currently exploring.
+
+| Project | Description | Domain |
+|:---|:---|:---|
+| **GitFo** | Developer analytics platform for GitHub/GitLab repositories. | Full-Stack / SaaS |
+| **Dockerfile Generation & Containerization** | Experimenting with local LLMs to generate Dockerfiles and containerize applications. | AI / DevOps |
+| **Load Balancer** | Exploring request distribution and load balancing mechanisms. | Backend / Networking |
+| **Packet Sniffer & Analyzer** | Capturing and analyzing network packets to understand network communication. | Networking |
+| **F1 Autonomous Driver** | Training a reinforcement learning model to drive an F1 car. | Reinforcement Learning |
+| **Heat And Halt** | A game featuring a robot and drone with heat management and cooling mechanics. | Game Development |
+
+---
+
+## `$ cat achievements.log`
+
+```text
+[+] WINNER          : Attack On Token
+[+] HACKATHONS      : 20+
+[+] PROJECT DOMAINS : Full-Stack, AI/ML, Game Development
+[+] MINDSET         : Build. Break. Understand. Repeat.
+```
 
 ---
 
-<!-- Connect -->
-<h3><font size="+2" face="Verdana">Connect with me:</font></h3>
+## `$ git log --activity`
 
-- Email: **meetm.asati@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/meet-asati-1937b132b**
-- Portfolio: **https://meet-asati.vercel.app**
-- Open for collabs, projects and hackathons
+<div align="center">
+
+<a href="https://github.com/meet-asati">
+  <img
+    src="https://github-readme-activity-graph-rose-nu.vercel.app/graph?username=meet-asati&bg_color=0d1117&color=c9d1d9&line=00F7A5&point=00F7A5&area=true&area_color=00F7A5&title_color=00F7A5&hide_border=true&custom_title=Contribution%20Activity&radius=8&height=300"
+    alt="Meet Asati's GitHub Activity Graph"
+    width="100%"
+  />
+</a>
+
+</div>
+---
+
+## `$ whoami --outside-the-terminal`
+
+Not everything happens in a code editor.
+
+- **Music:** Eminem, Rap & Hip-Hop.
+- **Gaming:** Games, mechanics and the engineering behind them.
+- **Experimenting:** Exploring how existing technologies work internally.
+- **Challenges:** Hackathons, competitions and building under pressure.
 
 ---
+
+<div align="center">
+
+### `while(alive) { keep_building(); keep_learning(); }`
+
+**Have an interesting idea? Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-asati-1937b132b)
+
+</div>
